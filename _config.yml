@@ -1,1 +1,28 @@
-theme: jekyll-theme-dinky
+title: Victor Sandoval
+description: My Personal Blog
+author: Victor Sandoval
+logo: /static/img/avatar.png
+github: https://github.com/vsromero
+about: Software Engineer
+
+baseurl: ""
+url: "http://127.0.0.1:4000"
+
+allowsearch: true
+
+disqus_shortname: aboutashu
+google_analytics: UA-72862926-1
+
+share:
+  twitter_username: \#
+  fb_appid: 000000000000
+
+
+enableTags: true
+tagarray: []
+
+paginate: 20
+per_page: 20
+paginate_path: "/page:num/"
+markdown: kramdown
+gems: [jekyll-paginate, jekyll-gist]
