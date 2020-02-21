@@ -6,9 +6,10 @@ permalink: /about/
 
 Hello, my name is Victor.
 
-I like to build desktop and web applications. As well as learning new techniques and technologies to make building these applications easier.
+I am a full stack web developer. I like to build amazing applications that will be useful to the end user.
 
-I also like to learn about information security, machine learning and just cool technologies in general.
+I am always interested in learning new technologies and techniques to make the process of building applications - or the applications themselves - easier, faster, 
+more secure, and less painful.
 
 I am always looking for new exciting projects to work on.
 
